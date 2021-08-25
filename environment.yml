@@ -1,0 +1,11 @@
+name: malaria-project-1.0.0
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - geopandas
+  - python=3.7
+  - geoplot
