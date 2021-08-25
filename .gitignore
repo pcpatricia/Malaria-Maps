@@ -115,3 +115,6 @@ dmypy.json
 
 # Other files
 .DS_Store
+
+# output folder
+/output/
