@@ -31,7 +31,6 @@ conda activate malaria-project-1.0.0
 
 ```
 usage: malaria.py [-h] [--geography GEOGRAPHY] [--dpi DPI]
-                  [--figsize FIGSIZE [FIGSIZE ...]]
 
 Make a figure of malaria cases on a continent or the world for the years in
 the dataset
