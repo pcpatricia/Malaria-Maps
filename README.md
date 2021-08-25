@@ -11,7 +11,7 @@ Generate PNGs of malaria cases on a continent or the world map for the years in 
   - geopandas
   - geoplot
 
-## Installation
+## Preparing the Environment
 
 1. [Install Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) (recommended: Anaconda)
 
