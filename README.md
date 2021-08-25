@@ -51,7 +51,8 @@ python malaria.py --geography Africa --dpi 300
 ```
 Generates an image for each year in the dataset of Africa and malaria incidence per 1000 pop at risk.
 
-<insert example image output here of one year>
+"World" output example:
+![Example image](example_2003_World_malaria.png)
 
 ## Data files
 
